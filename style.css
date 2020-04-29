@@ -1,0 +1,16 @@
+.big {
+    color: blue;
+}
+
+.container > div {
+    border: 1px solid green;
+    width: 200px;
+}
+
+div {
+    font-weight: bold;
+}
+
+p {
+    width: 200px;
+    background: yellow;}
