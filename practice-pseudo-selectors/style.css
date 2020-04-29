@@ -6,6 +6,6 @@ div {
 }
 
 div:hover {
-    background-color: rosybrown;
+    background-color: orangered;
     cursor: pointer;
 }
