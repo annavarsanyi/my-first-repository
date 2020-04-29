@@ -1,0 +1,33 @@
+.blue-container {
+    width: 750px;
+    height: 100px;
+    border: 2px solid #1199ff;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.blue-cubes {
+    width: 50px;
+    height: 50px;
+    background: #1199ff;
+}
+
+.orange-container {
+    width: 750px;
+    height: 100px;
+    border: 2px solid #1199ff;
+    background-color: coral;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.purple-cubes {
+    width: 50px;
+    height: 50px;
+    background: #903da5;
+}
